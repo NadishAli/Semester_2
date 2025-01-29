@@ -1,7 +1,0 @@
-D:\Semester_2\OOP Lab\testTasks\obj\Debug\testTasks.csproj.AssemblyReference.cache
-D:\Semester_2\OOP Lab\testTasks\obj\Debug\testTasks.csproj.CoreCompileInputs.cache
-D:\Semester_2\OOP Lab\testTasks\bin\Debug\testTasks.exe.config
-D:\Semester_2\OOP Lab\testTasks\bin\Debug\testTasks.exe
-D:\Semester_2\OOP Lab\testTasks\bin\Debug\testTasks.pdb
-D:\Semester_2\OOP Lab\testTasks\obj\Debug\testTasks.exe
-D:\Semester_2\OOP Lab\testTasks\obj\Debug\testTasks.pdb

@@ -1,7 +1,0 @@
-D:\Semester_2\OOP Lab\fileHandling\bin\Debug\fileHandling.exe.config
-D:\Semester_2\OOP Lab\fileHandling\bin\Debug\fileHandling.exe
-D:\Semester_2\OOP Lab\fileHandling\bin\Debug\fileHandling.pdb
-D:\Semester_2\OOP Lab\fileHandling\obj\Debug\fileHandling.csproj.AssemblyReference.cache
-D:\Semester_2\OOP Lab\fileHandling\obj\Debug\fileHandling.csproj.CoreCompileInputs.cache
-D:\Semester_2\OOP Lab\fileHandling\obj\Debug\fileHandling.exe
-D:\Semester_2\OOP Lab\fileHandling\obj\Debug\fileHandling.pdb

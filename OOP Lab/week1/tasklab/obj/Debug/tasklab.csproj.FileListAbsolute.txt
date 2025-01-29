@@ -1,0 +1,7 @@
+D:\Semester_2\OOP Lab\tasklab\bin\Debug\tasklab.exe.config
+D:\Semester_2\OOP Lab\tasklab\bin\Debug\tasklab.exe
+D:\Semester_2\OOP Lab\tasklab\bin\Debug\tasklab.pdb
+D:\Semester_2\OOP Lab\tasklab\obj\Debug\tasklab.csproj.AssemblyReference.cache
+D:\Semester_2\OOP Lab\tasklab\obj\Debug\tasklab.csproj.CoreCompileInputs.cache
+D:\Semester_2\OOP Lab\tasklab\obj\Debug\tasklab.exe
+D:\Semester_2\OOP Lab\tasklab\obj\Debug\tasklab.pdb

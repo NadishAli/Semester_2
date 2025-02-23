@@ -1,0 +1,7 @@
+D:\Semester_2\OOP Lab\week2\SelfTask1\bin\Debug\SelfTask1.exe.config
+D:\Semester_2\OOP Lab\week2\SelfTask1\bin\Debug\SelfTask1.exe
+D:\Semester_2\OOP Lab\week2\SelfTask1\bin\Debug\SelfTask1.pdb
+D:\Semester_2\OOP Lab\week2\SelfTask1\obj\Debug\SelfTask1.csproj.AssemblyReference.cache
+D:\Semester_2\OOP Lab\week2\SelfTask1\obj\Debug\SelfTask1.csproj.CoreCompileInputs.cache
+D:\Semester_2\OOP Lab\week2\SelfTask1\obj\Debug\SelfTask1.exe
+D:\Semester_2\OOP Lab\week2\SelfTask1\obj\Debug\SelfTask1.pdb

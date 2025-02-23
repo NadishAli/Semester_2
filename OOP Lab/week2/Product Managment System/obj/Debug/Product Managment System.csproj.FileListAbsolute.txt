@@ -1,0 +1,7 @@
+D:\Semester_2\OOP Lab\week2\Product Managment System\bin\Debug\Product Managment System.exe.config
+D:\Semester_2\OOP Lab\week2\Product Managment System\bin\Debug\Product Managment System.exe
+D:\Semester_2\OOP Lab\week2\Product Managment System\bin\Debug\Product Managment System.pdb
+D:\Semester_2\OOP Lab\week2\Product Managment System\obj\Debug\Product Managment System.csproj.AssemblyReference.cache
+D:\Semester_2\OOP Lab\week2\Product Managment System\obj\Debug\Product Managment System.csproj.CoreCompileInputs.cache
+D:\Semester_2\OOP Lab\week2\Product Managment System\obj\Debug\Product Managment System.exe
+D:\Semester_2\OOP Lab\week2\Product Managment System\obj\Debug\Product Managment System.pdb

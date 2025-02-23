@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester_2\\OOP Lab\\week2\\SelfTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0067E1-13E0-4204-8673-EFC8169726FF}|SelfTask1.csproj|d:\\semester_2\\oop lab\\week2\\selftask1\\selftask1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0067E1-13E0-4204-8673-EFC8169726FF}|SelfTask1.csproj|solutionrelative:selftask1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E0067E1-13E0-4204-8673-EFC8169726FF}|SelfTask1.csproj|d:\\semester_2\\oop lab\\week2\\selftask1\\transection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E0067E1-13E0-4204-8673-EFC8169726FF}|SelfTask1.csproj|solutionrelative:transection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transection.cs",
+              "DocumentMoniker": "D:\\Semester_2\\OOP Lab\\week2\\SelfTask1\\Transection.cs",
+              "RelativeDocumentMoniker": "Transection.cs",
+              "ToolTip": "D:\\Semester_2\\OOP Lab\\week2\\SelfTask1\\Transection.cs",
+              "RelativeToolTip": "Transection.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:08:04.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelfTask1.cs",
+              "DocumentMoniker": "D:\\Semester_2\\OOP Lab\\week2\\SelfTask1\\SelfTask1.cs",
+              "RelativeDocumentMoniker": "SelfTask1.cs",
+              "ToolTip": "D:\\Semester_2\\OOP Lab\\week2\\SelfTask1\\SelfTask1.cs",
+              "RelativeToolTip": "SelfTask1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:04:37.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Semester_2\OOP Lab\week2\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.AssemblyReference.cache
+D:\Semester_2\OOP Lab\week2\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.CoreCompileInputs.cache
+D:\Semester_2\OOP Lab\week2\StudentManagmentSystem\bin\Debug\StudentManagmentSystem.exe.config
+D:\Semester_2\OOP Lab\week2\StudentManagmentSystem\bin\Debug\StudentManagmentSystem.exe
+D:\Semester_2\OOP Lab\week2\StudentManagmentSystem\bin\Debug\StudentManagmentSystem.pdb
+D:\Semester_2\OOP Lab\week2\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.exe
+D:\Semester_2\OOP Lab\week2\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.pdb
